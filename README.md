@@ -16,7 +16,9 @@ Paccagnini, A. (2026). *Macroeconometrics — Companion Code Repository* (Versio
 
 ## About this repository
 
-This repository contains the companion code for the textbook *Macroeconometrics* (De Gruyter). It is organised into two types of material:
+This repository contains the companion code for the textbook *Macroeconometrics* (De Gruyter). It is still in progress and some codes will be changed, fixed or replaced in the next few weeks. Further material will be also added as companion for the book.
+
+It is organised into two types of material:
 
 - **Figure replication codes** — scripts that reproduce every figure appearing in each chapter, using the simulated or calibrated datasets described in the text.
 - **Empirical example codes** — scripts that implement the applied examples at the end of each chapter, where the methods are taken to real macroeconomic data.
